@@ -1,0 +1,22 @@
+{
+  "name": "XCCommonTools",
+  "version": "0.1.0",
+  "summary": "A short description of XCCommonTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mmzyang/XCCommonTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mmzyang": "cix@jumei.com"
+  },
+  "source": {
+    "git": "https://github.com/mmzyang/XCCommonTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XCCommonTools/Classes/**/*"
+}
