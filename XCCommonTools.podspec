@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XCCommonTools'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'XCCommonTools 是一个用来管理日常使用的三方文件的 pod 库.'
 
 # This description is used to generate tags and improve search results.

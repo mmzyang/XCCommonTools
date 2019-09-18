@@ -22,7 +22,7 @@ pod 'XCCommonTools'
 
 ## Author
 
-mmzyang, cix@jumei.com
+mmzyang, mmzyang@sina.com
 
 ## License
 
